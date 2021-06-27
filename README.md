@@ -1,6 +1,6 @@
 # DnCNN
 
-This repository contains the codes for the implementation of the paper - [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising]. This was done as part of a course project in collaboration with Ms Ocima Kamboj [https://github.com/ocimakamboj]
+This repository contains the codes for the implementation of the paper - [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising]. This was done as part of a course project [in collaboration with Ms Ocima Kamboj [https://github.com/ocimakamboj]]
 
 [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising]: https://ieeexplore.ieee.org/document/7839189
 
